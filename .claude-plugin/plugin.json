@@ -1,0 +1,9 @@
+{
+  "name": "add-ons",
+  "version": "0.1.0",
+  "description": "Claude Code add-ons for FHIR / healthcare integration work. Starts with the Vitalis Hackathon 2026 agentic-patient-access track (FHIR facade planner) and grows from there.",
+  "author": {
+    "name": "Jens Kristian Villadsen",
+    "email": "jenskristianvilladsen@gmail.com"
+  }
+}
